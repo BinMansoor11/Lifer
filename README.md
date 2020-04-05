@@ -1,8 +1,6 @@
-# DevConnector
+# Lifer
 
-> Small social network app built with the MERN stack. This is part of my "MERN Stack Front To Back" Udemy course
-
-IMPORTANT - This is from the old course. The latest version is at https://github.com/bradtraversy/devconnector_2.0
+> Small social network app built with the MERN stack.
 
 ## Quick Start
 
@@ -36,10 +34,6 @@ module.exports = {
 
 ## App Info
 
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
 
 ### Version
 
